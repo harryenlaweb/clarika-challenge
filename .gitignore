@@ -1,0 +1,7 @@
+# Dependencias instaladas por npm o yarn
+/node_modules
+
+# Archivos generados durante la compilación
+/dist
+/e2e/*.log
+/e2e/*.screenshot.png
